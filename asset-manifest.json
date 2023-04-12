@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4a925c62.css",
-    "main.js": "/static/js/main.b0d05e7f.js",
+    "main.js": "/static/js/main.c7ff3c69.js",
     "static/media/eaglone-logo.png": "/static/media/eaglone-logo.e032b8c59e4c5bc3577e.png",
     "static/media/eaglone-admin.png": "/static/media/eaglone-admin.099bcbcb5542913e6297.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,10 +10,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.4a925c62.css.map": "/static/css/main.4a925c62.css.map",
-    "main.b0d05e7f.js.map": "/static/js/main.b0d05e7f.js.map"
+    "main.c7ff3c69.js.map": "/static/js/main.c7ff3c69.js.map"
   },
   "entrypoints": [
     "static/css/main.4a925c62.css",
-    "static/js/main.b0d05e7f.js"
+    "static/js/main.c7ff3c69.js"
   ]
 }
