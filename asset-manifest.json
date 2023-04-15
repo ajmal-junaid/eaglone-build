@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a925c62.css",
-    "main.js": "/static/js/main.6c29279b.js",
+    "main.css": "/static/css/main.02f2ea8c.css",
+    "main.js": "/static/js/main.15cff03c.js",
     "static/media/eaglone-logo.png": "/static/media/eaglone-logo.e032b8c59e4c5bc3577e.png",
     "static/media/eaglone-admin.png": "/static/media/eaglone-admin.099bcbcb5542913e6297.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,11 +9,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.4a925c62.css.map": "/static/css/main.4a925c62.css.map",
-    "main.6c29279b.js.map": "/static/js/main.6c29279b.js.map"
+    "main.02f2ea8c.css.map": "/static/css/main.02f2ea8c.css.map",
+    "main.15cff03c.js.map": "/static/js/main.15cff03c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a925c62.css",
-    "static/js/main.6c29279b.js"
+    "static/css/main.02f2ea8c.css",
+    "static/js/main.15cff03c.js"
   ]
 }
